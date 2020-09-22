@@ -22,6 +22,10 @@ Portfolio of pages involving application user interactions
   <image src="https://github.com/robert-neumann/portfolio/blob/master/20200918142043.gif"></image>
 </div>
 
+<h3> 2) Post Settings</h3>
+
+<p>Visual representation of a post within a setting. Change whether comments, likes, sharing is allowed both for the viewers and those who comment underneath. Permit blacklisting users which prevents them from interacting with your posts.</p>
+
 <div style="">
   <image src="https://github.com/robert-neumann/portfolio/blob/master/Post_Settings.gif"></image>
 </div>
